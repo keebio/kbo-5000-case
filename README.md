@@ -10,10 +10,8 @@ To assemble the full case with the prints, you will need 18mm M2 screws that wil
 
 - More top shell variations
     - Left with blockers
-    - Right with blockers
-- Plate file DXFs
+    - Right with blockers 
 - Bottom wedge files to prop boards at various angles
 
-License
--------
+## License
 These case files are released under the MIT License.
